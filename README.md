@@ -20,7 +20,7 @@ An electron app to show the current crypto currency values with **INR Support**.
 **First, clone this repo:**
  ```
 git clone https://github.com/arunbabucode/desi-crypto-bar.git
-cd crypto-bar
+cd desi-crypto-bar
  ```
 
 **Then install and launch:**
